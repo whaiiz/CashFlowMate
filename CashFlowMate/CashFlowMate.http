@@ -1,0 +1,6 @@
+@CashFlowMate_HostAddress = http://localhost:5058
+
+GET {{CashFlowMate_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
